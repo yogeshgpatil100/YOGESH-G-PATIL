@@ -1,7 +1,10 @@
 #  YOGESH G Patil
 ## &#10023; About Me:
+
 > <img src="https://user-images.githubusercontent.com/83652490/117559643-a851f280-b0a4-11eb-9813-e3d7b110e041.png" width="200px" align="right">
-> 
+>
+
+
 > ### **Title:** A Mechanical CAD Designer. 
 
 ## &#10023; Specialization
