@@ -4,13 +4,6 @@
 > 
 > ### **Title:** A Mechanical CAD Designer. 
 
-> 
-
-> 
-> 
-
----
-
 ## &#10023; Specialization
 
 * Particular:
