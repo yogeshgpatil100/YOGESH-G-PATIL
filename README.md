@@ -1,10 +1,17 @@
 #  YOGESH G Patil
-## &#10023; About Me:
+
 
 > <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-
 > ### **Title:** A Mechanical CAD Designer. 
+
+About Me
+
+I am a final year B.Tech student specializing in Mechanical Engineering. I have . I am passionate about problem-solving, Mechanical designing , and learning new things.
+
+Contact : 7219651060
+
+Email: yogeshgpatil100@gmail.com
 
 
 ## &#10023; Specialization
