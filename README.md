@@ -51,7 +51,7 @@
 > - Presenting the project
 > - Working with a team
 ---
-* Certificate: [Certificate of Professional in CAD Design](https://www.linkedin.com/in/vivekchavhan/detail/treasury/education:716120376/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACj-Y_YBo3Pa3NjjmEv2vLvuAujowP_6_A8%2C1635453356727)&section=education%3A716120376&treasuryCount=1) 
+* Certificate: https://www.linkedin.com/in/yogesh-patil-92b48b227?utm
 > (Note: It will open only if you are logged in to Linkedin}
 
 
