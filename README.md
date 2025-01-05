@@ -62,9 +62,8 @@
 > * Diploma . Aggrigate: (77%)
 
 * B.Tech. (MECHANICAL ENIGINEERING)
-> * Yeshwantrao Chavan College Of Engineering, Nagpur  (2014-2018)
-> * B.E. Aggrigate: 8.72 (79.7%)
-
+> * Gfs Godavari College Of Engineering, Jalgaon  (2022-2025)
+> * B.E. Aggrigate: Persuing
 ---
 
 * CAD/CAM Centre INDO GERMAN TOOLROOM CHH SAMBHAJI NAGAR
@@ -77,4 +76,4 @@
 | GD&T | Press Tool | Jig & Fixtures | Injection molding| Die Casting Die | Entrepreneurship |
 ---
 
-## &#10023; Work Experience
+
