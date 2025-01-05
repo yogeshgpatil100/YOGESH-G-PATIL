@@ -3,18 +3,16 @@
 
 > <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+
 > ### **Title:** A Mechanical CAD Designer. 
+
 
 ## &#10023; Specialization
 
 * Particular:
 > * AutoCAD
-> * Creo 2.0 (Part Modelling, Part Assembly)
-> * Creo 2.0 (Sheet Metal Works, Drafting)
-> * CATIA V5 (Part Modelling, Part Assembly)
-> * CATIA V5 (Sheet Metal Works)
-> * CATIA V5 (Wireframe, Surface Modelling
-> 
+> * Solidworks (Part Modelling & Assembly) 
+> * NX Cad/Cam (Part Modelling & Assembly)
 
 ---
 
@@ -27,8 +25,6 @@
 > - Creating and editing surface features
 > - Creating drawing views & detaiils
 > - Advanced assembly features
-> - Creating sheet metal design
-> - Independent project work with expert Assistance
 > - CATIA User Interface
 > - Sketch based features
 > - Creating Part models
