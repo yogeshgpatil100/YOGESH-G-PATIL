@@ -1,11 +1,9 @@
 #  YOGESH G Patil
 ## &#10023; About Me:
 
-> <img src="https://user-images.githubusercontent.com/83652490/117559643-a851f280-b0a4-11eb-9813-e3d7b110e041.png" width="200px" align="right">https://acrobat.adobe.com/id/urn:aaid:sc:AP:210f9b7e-177d-4dec-88c2-73a90f97d7f2
+> <img src=">https://acrobat.adobe.com/id/urn:aaid:sc:AP:210f9b7e-177d-4dec-88c2-73a90f97d7f2"
 
 >
-https://acrobat.adobe.com/id/urn:aaid:sc:AP:00e912f4-c552-4b63-81f0-f08831e806e5
-
 
 
 > ### **Title:** A Mechanical CAD Designer. 
