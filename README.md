@@ -67,26 +67,14 @@
 
 ---
 
-* CADD Centre
-> * Professional in Product Design
-> * Field Of Study: Computer Aided Design
-> * 2016 – 2017
-> * Certified in : Professional in Product Design 
+* CAD/CAM Centre INDO GERMAN TOOLROOM CHH SAMBHAJI NAGAR
+> * Post Diploma Tool Design Cad/Cam
+> * Field Of Study: Computer Aided Design / ComputerAided Manufacturing
+> * March 2024 – March 2025
+> * Certified in : MSME (Mcro Small Medium Enterprise) 
 > * Project : Independent Project Work with Expert Assistance 
-> *  Concept/Software Learned : CATIA V5 | GD&T | AutoCAD 2D | Creo 2.0
-
+> *  Concept/Software Learned : AutoCAD 2D & 3D |Solidworks | NX CAD/CAM | Creo Parametric | 
+| GD&T | Press Tool | Jig & Fixtures | Injection molding| Die Casting Die | Entrepreneurship |
 ---
 
 ## &#10023; Work Experience
-
-* Trainee Design Engineer
-<img src="https://user-images.githubusercontent.com/83652490/117561345-b6f3d600-b0b3-11eb-8ea6-1bd03f2f6a5c.png" align="right">
-
-> - OKTAL SYDAC SIMULATION TECHNOLOGIES PVT. LTD. PUNE -411057
-> - Mar 2019 - Apr 2020
->   -	DEPARTMENT : CAD
->   - Worked On CATIA Migration Project
->   -	Giving Function Tolerancing And Annoataton to CATIA V5 Part Model
->   -	Checking and reporting errors occurred during migration
->   -	Documentation of the work done on of each model which includes the amount of work and the time required for that particular model
-
